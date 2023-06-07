@@ -1,16 +1,19 @@
-### Hi there 👋
+# Привет, меня зовут Дмитрий 👋
 
-<!--
-**111n33dh31p/111n33dh31p** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### Обо мне:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Начинающий разработчик на python. Мой путь в it начался с изучения различных языков в ВУЗе, но решил остановиться на языке Python. Планирую стать backend-разработчиком на Python. 
+
+### Мой стек:
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=fff"/> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=fff"/> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=fff"/> <img src="https://img.shields.io/badge/CodeWars-B1361E?style=for-the-badge&logo=python&logoColor=fff"/> <img src="https://img.shields.io/badge/MS SQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=fff"/>
+
+### Codewars:
+
+![Codewars](https://github.r2v.ch/codewars?user=111n33dh31p&stroke=23BB432C)
+
+
+
+
